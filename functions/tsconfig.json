@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext", // Burada 'NodeNext' kullanmalısınız.
+    "moduleResolution": "nodenext",
+    "target": "es2017",
+    "strict": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src"
+  ]
+}
